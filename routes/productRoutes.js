@@ -8,7 +8,7 @@ const { createProduct,
     getSingleProduct,
     updateProduct,
     deleteProduct,
-    uploadImage } = require('../controllers/ProductController');
+    uploadImage } = require('../controllers/productController');
 
 const { getSingleProductReview } = require('../controllers/reviewController')
 
